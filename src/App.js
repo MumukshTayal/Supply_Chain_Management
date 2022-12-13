@@ -74,8 +74,8 @@ class App extends Component {
     }
     return (
       <div className="App">
-        <h1>Simply Payment/Supply Chain Example!</h1>
-        <h2>Items</h2>
+        <h1>Supply Chain Example</h1>
+        <h2>Create/Purchase/Deliver Items</h2>
 
         <h2>Add Element</h2>
         Cost: <input type="text" name="cost" value={this.state.cost} onChange={this.handleInputChange} />
