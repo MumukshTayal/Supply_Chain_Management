@@ -20,6 +20,7 @@ code {
 #footer {
   position: absolute;
   bottom:0;
+  width: 100%;
   background: #f7f8f9;
   color: #45505b;
   font-size: 14px;
