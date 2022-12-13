@@ -12,7 +12,14 @@ code {
     monospace;
 }
 
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
 #footer {
+  position: absolute;
+  bottom:0;
   background: #f7f8f9;
   color: #45505b;
   font-size: 14px;
